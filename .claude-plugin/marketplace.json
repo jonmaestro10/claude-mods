@@ -1,0 +1,6 @@
+{
+  "name": "jonmaestro10-mods",
+  "description": "jonmaestro10's Claude Code mods",
+  "owner": { "name": "jonmaestro10" },
+  "plugins": [{ "name": "usage-remaining", "source": "./usage-remaining" }]
+}

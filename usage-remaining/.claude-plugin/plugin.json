@@ -1,0 +1,6 @@
+{
+  "name": "usage-remaining",
+  "version": "0.2.0",
+  "description": "Status line showing remaining 5h and 7d rate-limit usage, with the 5h reset countdown",
+  "author": { "name": "jonmaestro10" }
+}
